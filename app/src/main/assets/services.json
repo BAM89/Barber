@@ -1,0 +1,13 @@
+{
+  "Services" : {
+    "Adult Regular Haircut" : "$20.00+",
+    "Beard Trim & Lining" : "$8.00",
+    "Custom Style" : "$25.00+",
+    "Cut & Beard" : "$25.00 ",
+    "Edge Ups (Hair line, Nape & sideburns only!)" : "$5.00",
+    "Kids Basic Cut 5-12" : "$15.00",
+    "Kids Styled Cut 5-12" : "$20.00+",
+    "Razor Line" : "$10.00",
+    "Razor Shave Head & Face" : "$25.00"
+  }
+}
